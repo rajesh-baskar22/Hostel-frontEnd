@@ -32,6 +32,9 @@ Features
 sue Admin will be Assigned the Staff to maintenance the problem and resolved
 
 *Resident Checkout the Room and payment by paypal account
+*sb-ull8a35427312@personal.example.com
+#IKD6s$Q
+*use to Payment this account 
 
 *<img width="688" alt="Screenshot 2024-12-28 at 3 55 33 PM" src="https://github.com/user-attachments/assets/c774a1dd-932b-4cd0-a99d-94a095710485" />
 
