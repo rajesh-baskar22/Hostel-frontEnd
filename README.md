@@ -19,6 +19,8 @@ Features
 <img width="1357" alt="Screenshot 2024-12-28 at 3 51 09 PM" src="https://github.com/user-attachments/assets/7946f72c-faee-4d45-9be1-af7c49fc76ab" />
 
 * #Admin Pages
+* userName: baskar@gmail.com
+* password: bas
 * To create the Room form and select the Residents to Booking the Room
 * Admin only Create the Room for Resident
 * <img width="1422" alt="Screenshot 2024-12-28 at 3 52 24 PM" src="https://github.com/user-attachments/assets/0218edde-9058-41cc-9663-e3a6580505aa" />
