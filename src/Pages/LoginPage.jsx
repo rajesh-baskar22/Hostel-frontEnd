@@ -131,8 +131,8 @@ export default function LoginPage() {
             <button
               className="bg-indigo-100 hover:bg-indigo-500 bg-blue-300 rounded-xl p-1"
               onClick={() => {
-                setEmail("azar@gmail.com");
-                setPassword("azar");
+                setEmail("baskar@gmail.com");
+                setPassword("bas");
               }}
             >
               Admin login
